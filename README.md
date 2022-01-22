@@ -7,4 +7,4 @@
                                                  
 
 # Welcome to ENTR-451!
-2022 (c)
+2022 (c) copyright!
